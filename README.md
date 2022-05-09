@@ -1,6 +1,6 @@
 # Hey, I'm Deniz! :wave::sparkles: 
-I'm:
-:man_technologist: a **Computer Vision & Machine Learning Engineer,** a self-driven dreamer, an entrepreneur candidate from Istanbul.
+I'm: \
+:man_technologist: a **Computer Vision & Machine Learning Engineer,** a self-driven dreamer, an entrepreneur candidate from Istanbul. \
 🌱 Currently looking for new opportunities.
 
 ## :hammer_and_wrench: Working with:
