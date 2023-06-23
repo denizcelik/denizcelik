@@ -1,10 +1,13 @@
-# Hey, I'm Deniz! :wave::sparkles: 
-I'm: \
-:man_technologist: A **Computer Vision & Machine Learning Engineer,** a self-driven dreamer, an entrepreneur candidate from Istanbul. \
-:seedling: Currently working @Empa Technology.
+# Hey! :wave::sparkles: 
+This is Deniz.
 
-## :hammer_and_wrench: Working with:
-Language: Python :snake: \
+## :pushpin: About me:
+:man_technologist: A **Computer Vision & Machine Learning Engineer,** a self-driven dreamer, an entrepreneur candidate.  
+:tent: Living in Istanbul.  
+:seedling: Currently working @Empa Technology.  
+
+## :hammer_and_wrench: Toolkit:
+Language: Python :snake:  
 Libraries: Tensorflow, Keras, Scikit-Learn, OpenCV, Numpy, Pandas, Matplotlib
 
 ## :earth_africa: Find me on:
